@@ -18,4 +18,3 @@ My name is **Lucian Serbanescu** and I am a 2nd year student at University of So
 [TetrECS]: https://github.com/lucianjunior/tetrecs
 [Distibuted File System Storage]: https://github.com/lucianjunior/DistributedFileSystemStorage
 
-### May the force be with you ! ☃️
