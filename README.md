@@ -9,8 +9,8 @@ My name is **Lucian Serbanescu** and I am a 2nd year student at University of So
 
 ## 🥁 Projects that I enjoyed working on :
 
-- 🎮 **TetrECS** : Tetris-like game
-- ⑃ **Distibuted File System Storage** : Distributed network for file storage
+- 🎮 **[TetrECS]** : Tetris-like game
+- ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
 - ⚅ **Hasktile** : New programming langage for editing tiles made in Haskell
 - 🛫 **Airport Runway Declaration tool** : Java desktop application made for Air traffic controllers
 
