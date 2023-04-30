@@ -7,7 +7,7 @@ My name is **Lucian Serbanescu** and I am a 2nd year student at University of So
 - 📱 UI & UX Design
 - ✏️ Mobile & Desktop Applications
 
-## 🥁 Projects that I enjoyed working on :
+## 🥁 Projects that I enjoyed :
 
 - 🎮 **[TetrECS]** : Tetris-like game
 - ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
