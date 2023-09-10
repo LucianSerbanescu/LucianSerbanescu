@@ -6,6 +6,7 @@ My name is **Lucian Serbanescu** and I am a 3nd year student at University of So
 
 - 📱 UI & UX Design
 - ✏️ Mobile & Desktop Applications
+- 🧠 Machine Learning
 
 ## 🥁 Projects that I enjoyed :
 
