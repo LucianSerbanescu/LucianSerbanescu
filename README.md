@@ -1,6 +1,6 @@
 # Hello there! <img src= "http://i.imgur.com/L6deEh0.gif" >
 
-My name is **Lucian Serbanescu** and I am a 2nd year student at University of Southampton. I'm doing a MEng program in Computer Science with Artificial Intelligence. Romanian citizen born in Timisoara, currently based in Southampton UK. 
+My name is **Lucian Serbanescu** and I am a 3nd year student at University of Southampton. I'm doing a MEng program in Computer Science with Artificial Intelligence. Romanian citizen born in Timisoara, currently based in Southampton UK. 
 
 ## 👨🏻‍💻 What I love working on :
 
