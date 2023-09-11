@@ -12,10 +12,12 @@ My name is **Lucian Serbanescu** and I am a 3nd year student at University of So
 
 - 🎮 **[TetrECS]** : Tetris-like game
 - ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
-- ⚅ **Hasktile** : New programming langage for editing tiles made in Haskell
-- 🛫 **Airport Runway Declaration tool** : Java desktop application made for Air traffic controllers
+- ⚅ **[Hasktile]** : New programming langage for editing tiles made in Haskell
+- 🛫 **[Airport Runway Declaration Tool]** : Java desktop application made for Air traffic controllers
 
 
 [TetrECS]: https://github.com/lucianjunior/tetrecs
 [Distibuted File System Storage]: https://github.com/lucianjunior/DistributedFileSystemStorage
+[Hasktile]: https://github.com/LucianSerbanescu/HaskTile
+[Airport Runway Declaration Tool]: https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool
 
