@@ -4,9 +4,9 @@ My name is **Lucian Serbanescu** and I am a 3nd year student at University of So
 
 ## 👨🏻‍💻 What I love working on :
 
-- 📱 UI & UX Design
-- ✏️ Mobile & Desktop Applications
 - 🧠 Machine Learning
+- 🕶️ Computer Vision
+- 🧬 Bioengineering
 
 ## 🥁 Projects that I enjoyed :
 
