@@ -11,6 +11,7 @@ My name is **Lucian Serbanescu**, a romanian student student at University of So
 
 ## 🥁 Projects that I enjoyed :
 
+- **Argument Mining Tool** : A Tool using Fine-tuned LLMs for argument extraction from natural language text
 - 👁️ **[Scene Recognition System]** : An algorithms for recognasing scenes
 - 🎮 **[TetrECS]** : Tetris-like game
 - ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
@@ -20,7 +21,7 @@ My name is **Lucian Serbanescu**, a romanian student student at University of So
 
 [TetrECS]: https://github.com/lucianjunior/tetrecs
 [Distibuted File System Storage]: https://github.com/lucianjunior/DistributedFileSystemStorage
-[Hasktile]: [https://github.com/LucianSerbanescu/HaskTile](https://github.com/SotonCoders)
+[Hasktile]: https://github.com/SotonCoders
 [Airport Runway Declaration Tool]: https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool
-[Scene Recognition System]: [https://github.com/LucianSerbanescu/Scene_Recognition](https://github.com/SotonCoders)https://github.com/SotonCoders
+[Scene Recognition System]: https://github.com/SotonCoders
 
