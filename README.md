@@ -11,7 +11,7 @@ My name is **Lucian Serbanescu**, a romanian student student at University of So
 
 ## 🥁 Projects that I enjoyed :
 
-- **Argument Mining Tool** : A Tool using Fine-tuned LLMs for argument extraction from natural language text
+- 📚 **Argument Mining Tool** : A Tool using Fine-tuned LLMs for argument extraction from natural language text
 - 👁️ **[Scene Recognition System]** : An algorithms for recognasing scenes
 - 🎮 **[TetrECS]** : Tetris-like game
 - ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
