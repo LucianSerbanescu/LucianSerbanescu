@@ -6,7 +6,7 @@ My name is **Lucian Serbanescu**, a romanian student student at University of So
 
 - 🧠 Machine Learning
 - 🕶️ Computer Vision
-- 🧬 Bioengineering
+- 🧬 Computational Biology & Bioengineering
 - 💬 Natural Language Processing
 
 ## 🥁 Projects that I enjoyed :
