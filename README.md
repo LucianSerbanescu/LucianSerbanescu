@@ -1,15 +1,17 @@
 # Hello there! <img src= "http://i.imgur.com/L6deEh0.gif" >
 
-My name is **Lucian Serbanescu** and I am a 3nd year student at University of Southampton. Studying a MEng program in Computer Science with Artificial Intelligence. I am also a Romanian citizen an born in Timisoara, currently based in Southampton UK. 
+My name is **Lucian Serbanescu**, a romanian student student at University of Southampton. Curently studying a MEng program in Computer Science with Artificial Intelligence. Passioante about basketball and photography. 
 
 ## 👨🏻‍💻 What I love working on :
 
 - 🧠 Machine Learning
 - 🕶️ Computer Vision
 - 🧬 Bioengineering
+- 💬 Natural Language Processing
 
 ## 🥁 Projects that I enjoyed :
 
+- 👁️ **[Scene Recognition System]** : An algorithms for recognasing scenes
 - 🎮 **[TetrECS]** : Tetris-like game
 - ⑃ **[Distibuted File System Storage]** : Distributed network for file storage
 - ⚅ **[Hasktile]** : New programming langage for editing tiles made in Haskell
@@ -18,6 +20,7 @@ My name is **Lucian Serbanescu** and I am a 3nd year student at University of So
 
 [TetrECS]: https://github.com/lucianjunior/tetrecs
 [Distibuted File System Storage]: https://github.com/lucianjunior/DistributedFileSystemStorage
-[Hasktile]: https://github.com/LucianSerbanescu/HaskTile
+[Hasktile]: [https://github.com/LucianSerbanescu/HaskTile](https://github.com/SotonCoders)
 [Airport Runway Declaration Tool]: https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool
+[Scene Recognition System]: [https://github.com/LucianSerbanescu/Scene_Recognition](https://github.com/SotonCoders)https://github.com/SotonCoders
 
